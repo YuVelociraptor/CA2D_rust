@@ -1,0 +1,1 @@
+# 2D Cellular Automaton with Rust WebAssembly for JavaScript
